@@ -2,7 +2,6 @@
 
 > *RUDR is a pocket-sized AI device that speaks, listens, and learns – built for private, seamless, on-the-go intelligence.*
 
-![rudr-banner](link-to-image-or-leave-out-for-now)
 
 ---
 
